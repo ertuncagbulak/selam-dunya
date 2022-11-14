@@ -1,8 +1,0 @@
-<html>
-<head>
-<title> Ertunç Ağbulak<\title>
-<body>
-<h1>Selam Dünya<\h1>
-<\head>
-<\body>
-<\html>
